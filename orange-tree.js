@@ -23,7 +23,7 @@ class OrangeTree {
   }
 
   hasOranges() {
-    //  Returns true if there are any oranges on the tree, false otherwise
+   
   }
 
   pickAnOrange() {
